@@ -1,2 +1,0 @@
-# jest-test
-Jest Exercises 
